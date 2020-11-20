@@ -1,0 +1,64 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Bitcoin Design Community//ical-generator//EN
+NAME:Bitcoin Design Community Calls & Events
+X-WR-CALNAME:Bitcoin Design Community Calls & Events
+TIMEZONE-ID:US/Pacific
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:745538350@bitcoindesigners.org
+SEQUENCE:0
+DTSTAMP:20200118T160000Z
+DTSTART:20200118T160000Z
+DTEND:20200118T170000Z
+SUMMARY:Design Review Call #8
+DESCRIPTION:Find out more at: https://github.com/BitcoinDesign/Meta/issues
+ /47
+X-ALT-DESC;FMTTYPE=text/html:Find out more at: <a href=\"https://github.co
+ m/BitcoinDesign/Meta/issues/47\">https://github.com/BitcoinDesign/Meta/iss
+ ues/47</a>
+URL;VALUE=URI:https://github.com/BitcoinDesign/Meta/issues/47
+END:VEVENT
+BEGIN:VEVENT
+UID:745525172@bitcoindesigners.org
+SEQUENCE:0
+DTSTAMP:20201207T160000Z
+DTSTART:20201207T160000Z
+DTEND:20201207T170000Z
+SUMMARY:Design Review Call #7
+DESCRIPTION:Find out more at: https://github.com/BitcoinDesign/Meta/issues
+ /46
+X-ALT-DESC;FMTTYPE=text/html:Find out more at: <a href=\"https://github.co
+ m/BitcoinDesign/Meta/issues/46\">https://github.com/BitcoinDesign/Meta/iss
+ ues/46</a>
+URL;VALUE=URI:https://github.com/BitcoinDesign/Meta/issues/46
+END:VEVENT
+BEGIN:VEVENT
+UID:745443887@bitcoindesigners.org
+SEQUENCE:0
+DTSTAMP:20201125T170000Z
+DTSTART:20201125T170000Z
+DTEND:20201125T180000Z
+SUMMARY:Community Call #7
+DESCRIPTION:Find out more at: https://github.com/BitcoinDesign/Meta/issues
+ /45
+X-ALT-DESC;FMTTYPE=text/html:Find out more at: <a href=\"https://github.co
+ m/BitcoinDesign/Meta/issues/45\">https://github.com/BitcoinDesign/Meta/iss
+ ues/45</a>
+URL;VALUE=URI:https://github.com/BitcoinDesign/Meta/issues/45
+END:VEVENT
+BEGIN:VEVENT
+UID:744788132@bitcoindesigners.org
+SEQUENCE:0
+DTSTAMP:20201123T160000Z
+DTSTART:20201123T160000Z
+DTEND:20201123T170000Z
+SUMMARY:Design Review Call #6
+DESCRIPTION:Find out more at: https://github.com/BitcoinDesign/Meta/issues
+ /43
+X-ALT-DESC;FMTTYPE=text/html:Find out more at: <a href=\"https://github.co
+ m/BitcoinDesign/Meta/issues/43\">https://github.com/BitcoinDesign/Meta/iss
+ ues/43</a>
+URL;VALUE=URI:https://github.com/BitcoinDesign/Meta/issues/43
+END:VEVENT
+END:VCALENDAR
